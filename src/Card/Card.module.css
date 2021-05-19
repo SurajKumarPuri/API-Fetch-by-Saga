@@ -1,0 +1,20 @@
+.contant{
+    width: 80%;
+    text-align: center;
+}
+.heading{
+    color: brown;
+    font-size: 20px;
+}
+.para{
+    color: blue;
+}
+.buttonbox{
+    width: 100%;
+    margin: 10px;
+}
+.button{
+    width: 150px;
+    height: 30px;
+    color: red;
+}
